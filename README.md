@@ -97,4 +97,3 @@ $ mvn spring-boot:run
 
 http://localhost:8080에 접속하면 결과 화면을 볼 수 있다.
 
-changed
